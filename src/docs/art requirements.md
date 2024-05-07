@@ -74,3 +74,6 @@ This means:
 * Weapons and items that may be in use
 * Spells that may be in use by either side
 * Iconography that you'd like us to use for achievements if applicable (we'll make these happily)
+
+Notably, we're going to use different animation easing curves for this show.  We want elements like menus to feel like they're being dragged through the water, just a bit.
+
