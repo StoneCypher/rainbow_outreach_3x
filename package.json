@@ -1,0 +1,11 @@
+{
+  "name": "rainbow_outreach_3x",
+  "version": "0.1.0",
+  "description": "outreach to rainbow re 3x games",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "ISC"
+}
